@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(233, 220, 220) ;
+    text-align: center;
+
+    
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 15px;
+    block-size: px;
+
+}
+strong {
+    color: rgb(158, 7, 7);
+}
+h1 {
+    background-color: black;
+    padding: 20px;
+    color: aliceblue;
+    display: inline-block;
+    font-size: 25px;
+    border-radius: 50px;
+    image-rendering: 50px;
+}
+ img{
+    border-radius: 50px;
+    max-width: 100px;
+    margin: auto;
+    height: 150px;
+    border: 6px solid #fff;
+    transform: scale(1.1);
+    
+}
+h2 {
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+video {
+    border-radius: 50px;
+    max-width: 400px;
+    padding: 20;
+    
+}
